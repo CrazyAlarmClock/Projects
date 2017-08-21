@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tap-Tap Colors</string>\
+
+    <string name="Red">           Red              </string>
+    <string name="Pink">          Pink            </string>
+    <string name="Purple">        Purple        </string>
+    <string name="Deep_Purple">   Deep Purple        </string>
+    <string name="Indigo">        Indigo           </string>
+    <string name="Blue">          Blue             </string>
+    <string name="Light_Blue">    Light Blue       </string>
+    <string name="Cyan">          Cyan           </string>
+    <string name="Teal">          Teal            </string>
+    <string name="Green">         Green          </string>
+    <string name="Light_Green">   Light Green     </string>
+    <string name="Lime">          Lime           </string>
+    <string name="Yellow">        Yellow          </string>
+    <string name="Amber">         Amber           </string>
+    <string name="Orange">        Orange           </string>
+    <string name="Deep_Orange">   Deep Orange       </string>
+    <string name="Brown">         Brown            </string>
+    <string name="Grey">          Grey            </string>
+    <string name="Blue_Grey">     Blue Grey        </string>
+    <string name="Black">         Black           </string>
+    <string name="title_activity_result">Result</string>
+    <string name="activity_home_name">Play</string>
+</resources>
